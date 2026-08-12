@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=ABDELLA%20MAHMOUD&fontColor=6e6e6e&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Infrastructure%20%7C%20Cloud%20%7C%20Security&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=ABDELLA%20MAHMOUD&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Infrastructure%20%7C%20Cloud%20%7C%20Security&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="mailto:Abdellamahmoud98@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://www.linkedin.com/in/abdellamahmoud"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
