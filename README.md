@@ -16,25 +16,23 @@
 abdella@engineering:~$ whoami
 ```
 
-I'm a **Software Engineer** based in **Toronto, Canada**, with a background in DevOps and a focus on infrastructure, cloud, and security. I work across the stack that most people never see directly — provisioning, deployment pipelines, observability, and the security boundaries that hold it all together.
-
-I'm currently deepening my cloud expertise on the way to my **AWS Cloud Practitioner** certification, and building projects at the intersection of:
+I'm a **Software Engineer** based in **Toronto, Canada**. I've worked across pipelines and infrastructure — building and automating the systems most people never see directly — and I'm now focused on **AI infrastructure and automation**, while pivoting into **cryptography**.
 
 <div align="center">
 
 ```
-     ☁️  CLOUD-NATIVE INFRASTRUCTURE
-                  +
-     🔐  DEVSECOPS & CRYPTOGRAPHY
+     ☁️  PIPELINES & INFRASTRUCTURE
                   +
      🤖  AI INFRASTRUCTURE & AUTOMATION
+                  +
+     🔑  CRYPTOGRAPHY (pivoting in)
                   ↓
         🚀  SECURE, SCALABLE SYSTEMS
 ```
 
 </div>
 
-My work spans **cloud engineering, DevOps automation, platform engineering, DevSecOps, and applied cryptography** — with an increasing focus on the infrastructure that AI workloads run on.
+My work spans **infrastructure engineering, DevOps automation, and platform engineering**, with a growing focus on the systems that power AI workloads and the cryptographic foundations behind secure infrastructure.
 
 <br/>
 
