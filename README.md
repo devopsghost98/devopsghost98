@@ -10,7 +10,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 ```bash
 abdella@engineering:~$ whoami
