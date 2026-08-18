@@ -16,7 +16,7 @@
 abdella@engineering:~$ whoami
 ```
 
-I'm a **Software Engineer** based in **Toronto, Canada**. I've worked across pipelines and infrastructure — building and automating the systems most people never see directly — and I'm now focused on **AI infrastructure and automation**, while pivoting into **cryptography**.
+I'm a **Software Engineer** based in **Toronto, Canada**. I've worked across pipelines and infrastructure — building and automating the systems most people never see directly — and I'm now focused on **AI infrastructure and automation**, while pivoting into **cryptography** in the near future.
 
 <div align="center">
 
